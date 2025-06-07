@@ -1,0 +1,200 @@
+//Makasar Masamba via Tempe
+301;Makassar;Makassar;
+301;Bonto-Bonto;Bonto-Bonto;
+301;Barata;Barata;
+301;Danau Tempe;Danau Tempe;
+301;Sajoanging;Sajoanging;
+301;Siwa;Siwa;
+301;Belopa;Belopa;
+301;Bua;Bua;
+301;Masamba;Masamba;
+
+//Makassar Masamba via Bone
+302;Barata;Barata;
+302;Bone;Bone;
+302;Sajoanging;Sajoanging;
+
+//Makasar Mamuju via Pare Pare
+303;Bonto-Bonto;Bonto-Bonto;
+303;Barru;Barru;
+303;Pare-Pare;Pare-Pare;
+303;Karawa;Karawa;
+303;Polewali;Polewali;
+303;Sendana;Sendana;
+303;Tapalang;Tapalang;
+303;Mamuju;Mamuju;
+
+//Makassar Sumarorong via Pare Pare
+304;Polewali;Polewali;
+304;Sumarorong;Sumarorong
+
+//Makasar Selayar
+305;Makassar;Makasar;
+305;Sungguminasa;Sungguminasa;
+305;Sanrego;Sanrego;
+305;Janepontoh;Janepontoh;
+305;Malakaji;Malakaji;
+305;Bulukumba;Bulukumba;
+305;Pasitanete;Pasitanete;
+305;Selayar;Selayar;
+
+//Masamba Mmuju via Bua
+306;Masamba;Masamba;
+306;Bua;Bua;
+306;Toraja;Toraja;
+306;Sumarorong;Sumarorong;
+306;Tapalang;Tapalang;
+306;Mamuju;Mamuju;
+
+//Bone Selayar
+307;Bone;Bone;
+307;Bulu-Bulu;
+307;Bulukumba-Bulukumba;
+
+//Kendari Maranggo
+308;Kendari;Kendari;
+308;Tetelara;Tetelara;
+308;Sugimanuru;Sugimanuru;
+308;Kinapani;Kinapani;
+308;Matahora;Matahora;
+308;Maranggo;Maranggo;
+
+//Kendari Maranggo via Betoambari
+309;Sugimanuru;Sugimanuru;
+309;Betoambari;Betoambari;
+309;Kinapani;Kinapani;
+
+//Kendari Kolaka via Pomala
+310;Kendari;Kendari;
+310;Ladongi;Ladongi;
+310;Pomala;Pomala;
+
+//Kendari Kolaka via Sagia Nibandera
+311;Ladongi;Ladongi;
+311;Sangia Nibandera;Sangia Nibandera;
+
+//POmala Siwa
+312;Pomala;Pomala;
+312;Pondaipah;Pondaipah;
+312;Labuan Dalam;Labuan Dalam;
+312;Siwa;Siwa;
+
+//Kendari Soroako
+313;Kendari;Kendari;
+313;Silea;Silea;
+313;Malore;Malore;
+313;Imip;Imip;
+313;Morowali;Morowali;
+313;Soroako;Soroako;
+
+//Kendari Poso
+314;Morowali;Morowali;
+314;Rumbia;Rumbia;
+314;Momo;Momo;
+314;Kasiguncu;Kasiguncu;
+
+//Mamuju Soroako
+315;Mamuju;Mamuju;
+315;Kalumpang;Kalumpang;
+315;Seko;Seko;
+315;Rampi;Rampi;
+315;Masamba;Masamba;
+315;Wotu;Wotu;
+315;Soroako;Soroako;
+
+//Luwuk Soroako
+316;Luwuk;Luwuk;
+316;Batui;Batui;
+316;Kerah;Kerah;
+316;Baturebe;Baturebe;
+316;Morowali;Morowali;
+316;Soroako;Soroako;
+
+//Luwuk Poso via Baturebe
+317;Baturebe;Baturebe;
+317;Rumbia;Rumbia;
+
+//Luwuk Poso via Toili
+318;Luwuk;Luwuk;
+318;Toili;Toili;
+318;Uekuli;Uekuli;
+318;Kasiguncu;Kasiguncu;
+
+//Luwuk Poso via Ampana
+319;Luwuk;Luwuk;
+319;Petak;Petak;
+319;Ampana;Ampana;
+319;Uekuli;Uekuli;
+
+//Palu Poso
+320;Palu;Palu;
+320;Wataoge;Wataoge;
+320;Toboli;Toboli;
+320;Sausu River;Sausu River;
+320;Kawende;Kawende;
+320;Kasiguncu;Kasiguncu;
+
+//Palu Seko
+321;Palu;Palu;
+321;Salusompu;Salusompu;
+321;Pasangkayu;Pasangkayu;
+321;Majene;Majene;
+321;Sukkeke;Sukkeke;
+321;Seko;Seko;
+
+//Palu Masamba
+322;Kasiguncu;Kasiguncu;
+322;Tentena;Tentena;
+322;Rampi;Rampi;
+322;Masamba;Masamba;
+
+//Palu Mamuju
+323;Sukkeke;Sukkeke;
+323;Mamuju;Mamuju;
+
+//Palu Toli Toli
+324;Toboli;Toboli;
+324;Kasimbar;Kasimbar;
+324;Magapa;Magapa;
+324;Pulosu;Pulosu;
+324;Banagan;Banagan;
+324;Leonyo Kalemo;Leonyo Kalemo;
+324;Toli-Toli;Toli-Toli;
+
+//Toli toli Pogogul
+326;Toli-Toli;Toli-Toli;
+326;Santigi;Santigi;
+326;Dako;Dako;
+326;Pogogul;Pogogul;
+
+//Toli Toli Gorontalo
+327;Dako;Dako;
+327;Paleleh;Paleleh;
+327;Matua;Matua;
+327;Pontolo;Pontolo;
+327;Gorontalo;Gorontalo;
+
+//Gorontalo Manado
+328;Pontolo;Pontolo;
+328;Loyo;Loyo;
+328;Bohabak;Bohabak;
+328;Lolak;Lolak;
+328;Tenga;Tenga;
+328;Popoh;Popoh;
+328;Wenang;Wenang;
+328;Manado;Manado;
+
+//Manado Lilang
+329;Manado;Manado;
+329;Sampiri;Sampiri;
+329;Lilang;Lilang;
+
+//Manado Naha
+329;Manado;Manado;
+329;ABM Naeng BEsar;ABM Naeng Besar;
+329;Talise;Talise;
+329;Lamanggo;Lamanggo;
+329;Toang;Toang;
+329;Kanang;Kanang;
+329;Sowang;Sowang;
+329;Naha;Naha;

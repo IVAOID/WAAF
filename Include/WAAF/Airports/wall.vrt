@@ -1,0 +1,121 @@
+//Nunukan Tarakan via Tarakan Hrbour
+201;Nunukan;Nunukan;
+201;Itai River;Itai River;
+201;Tarakan Harbour;Tarakan Harbour;
+201;TRK;TRK;
+
+//Nunukan Malinau via Sibuku
+202;Nunukan;Nunukan;
+202;Sibuku River;Sibuku River;
+202;Sebakung River;Sebakung River;
+202;Malinau;Malinau;
+
+//Long Bawan nunukan via Lugu River
+203;Long Bawan;Long Bawan;
+203;Mentarang;Mentarang;
+203;Lugu River;Lugu River;
+203;Sibuku River;Sibuku River;
+
+//Long Bawan Tarakan Harbour via Malinau
+204;Long Bawan;Long Bawan;
+204;Tambalang;Tambalang;
+204;Malinau;Malinau;
+204;Siduyun River;Siduyun River;
+204;Umbus Island;Umbus Island;
+204;Tarakan Harbour;Tarakan Harbour;
+
+//Malinau Tarakan via Tundung Island
+205;Malinau;Malinau;
+205;ABM MT Sondang;ABM MT Sondang;
+205;Tanjung Selor;Tanjung Selor;
+205;Tundung Island;Tundung Island;
+205;Tanjung Pasir;Tanjung Pasir;
+205;TRK;TRK;
+
+//Tundung Island Makajang via Tanah Kuning
+206;Tundung Island;Tundung Island;
+206;Abeam Tanah Kuning;Abeam Tanah Kuning;
+206;Berau River;Berau River;
+206;Makajang;Makajang;
+
+//Tanjung Redeb Tanjung Batu via Berau River
+207;Tanjung Redeb;Tanjung Redeb;
+207;Berau River;Berau River;
+207;Tanjung Batu;Tanjung Batu;
+
+//Makajang ABM MT Ampayan
+208;Makajang;Makajang;
+208;Tanjung Parupu;Tanjung Parupu;
+208;ABM MT Ampayan;ABM MT Ampayan;
+208;Benua Baru;Benua Baru;
+208;Sekurau River;Sekurau River;
+
+//Makajang Mahakam River I
+209;Makajang;Makajang;
+209;Tabalor;Tabalor;
+209;Muara Karangan;Muara Karangan;
+209;Sekurau River;Sekurau River;
+209;Tanjung Bara;Tanjung Bara;
+209;Sangkimah;Sangkimah;
+209;ABM Bontang;ABM Bontang;
+209;Tanjung Santan;Tanjung Santan;
+209;Muara Badak;Muara Badak;
+209;Mahakam River I;Mahakam River I
+
+//Mahakam River Tanah Grogot Via Poin Alpha
+210;Mahakam River I;Mahakam River I;
+210;Handil II;Handil II;
+210;Senipah;Senipah;
+210;Poin Alpha;Poin Alpha;
+210;Semayang;Semayang;
+210;Sesulo;Sesulo;
+210;Labangka;Labangka;
+210;Muara Lombok;Muara Lombok;
+210;Tanah Grogot;Tanah Grogot;
+
+//Muara Teweh Semayang Via Point Talake
+211;Muara Teweh;Muara Teweh;
+211;Benangin;Benangin;
+211;Talake River;Talake River;
+211;Toyu;Toyu;
+211;Lunan River;Lunan River;
+211;Semayang;Semayang;
+
+//Melak Semayang via Tanjung Isim
+212;Melak;Melak;
+212;Tanjung Isim;Tanjung Isim;
+212;Toyu Kanan River;Toyu Kanan River;
+212;Riko River;Riko River;
+212;Semayang;Semayang;
+
+//Melak Sarju via Muarakaman
+213;Melak;Mela;
+213;ABM Danau Melintang;ABM Danau Melintang;
+213;Muarakaman;Muarakaman;
+213;Sarju;Sarju;
+
+//Long Apung Sarju via ABM Busang
+214;Long Apung;Long Apung;
+214;Long Lebusan;Long Lebusan;
+214;Pedang Api Lake;Pedang Api Lake;
+214;Sarju;Sarju;
+
+//Malinau Long Apung via Long Pujungan
+215;Malinau;Malinau;
+215;Muara Longnaga;Muara Longnaga;
+215;Long Pujungan;Long Pujungan;
+215;Bukit Tikung;Bukit Tikung;
+215;Datah Dian;Datah Dian;
+215;Long Apung;Long Apung;
+
+//Long Pujungan Tanjung Selor
+216;Long Pujungan;Long Pujungan;
+216;ABM MT Laung;ABM MT Laung;
+216;ABM MT Sondang;ABM MT Sondang;
+216;Tanjung Selor;Tanjung Selor;
+
+//Tarakan Long Apung via Umbus
+217;Umbus Island;Umbus Island;
+217;ABM Mt Sondang;ABM MT Sondang;
+217;ABM MT Laung;ABM MT Laung
+217;Long Pujungan;Long Pujungan;
