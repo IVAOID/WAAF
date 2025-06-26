@@ -1,0 +1,208 @@
+//UPDATE 3.2.0.0
+//AIRAC VERSION : 2204
+
+
+[INFO]
+S006.38.15.000
+E117.20.38.000
+160	
+160
+0.0
+WAAF_W_CTR;WAAF_W_CTR\Airports;WAAF_W_CTR\Others;
+
+[DEFINE]
+SUKET;#014f0a;
+ASPAL;#969696;
+CONCRETE;#66645a;
+PARKING;#393704;
+TAXILINE;#ffff00;
+TWYEDGE;#cccc00;
+RWYEDGE;#f5f5f5;
+RWYMARK;#f5f5f5;
+GENTENG;#986f08;
+OUTLINE;#463304;
+RUNWAY;#505050;
+STOPBAR;%255:000:000;
+BG1;%0:0:0;
+BG2;%50:50:0;
+
+[Airport]
+F;GEN\W.apt
+
+[Runway]
+F;GEN\W.rwy
+
+[GATES]
+F;Airports\W.gts
+
+[VOR]
+ABD;116.10;S007.55.57.950;E112.42.47.200;
+ANY;115.20;S006.58.28.900;E110.22.48.400;
+ARP;112.10;S006.10.35.600;E120.26.20.800;
+BDM;112.10;S003.26.12.480;E114.43.53.350;
+BJW;113.50;S008.42.15.800;E121.02.49.100;
+BLI;116.20;S008.45.02.050;E115.09.47.900;
+//GSA;112.90;S003.17.47.500;E116.09.46.800;
+IWY;114.80;S007.36.44.215;E111.26.10.667;
+JOG;112.80;S007.48.01.190;E110.18.33.630;
+KPG;112.20;S010.10.00.300;E123.41.30.500;
+LBJ;112.60;S008.28.53.240;E119.53.05.230;
+LMB;116.00;S008.46.20.430;E116.17.38.630;
+MAK;110.00;S005.03.08.600;E119.34.01.300;
+MKS;114.70;S005.02.16.120;E119.31.34.280;
+MOF;114.50;S008.38.27.900;E122.14.22.700;
+NMA;115.10;S008.32.02.920;E118.41.29.640;
+PKN;117.40;S002.43.06.500;E111.41.15.750;
+SBR;113.40;S007.22.26.180;E112.46.16.390;
+SLO;116.30;S007.30.27.780;E110.47.39.860;
+SMP;114.10;S007.01.28.300;E113.53.18.000;
+SPT;114.50;S002.29.51.300;E112.58.16.900;
+TBK;113.10;S009.24.30.600;E119.14.53.800;
+WGP;117.30;S009.40.11.510;E120.18.14.540;
+
+
+[NDB]
+BA;240.0;S006.59.33.510;E111.25.08.260;
+BS;395.0;S008.18.48.700;E114.20.06.500;
+HN;243.0;S008.14.39.900;E113.41.43.600;
+KB;233.0;S003.22.40.300;E112.32.22.900;
+LW;290.0;S007.49.18.000;E112.41.24.000;
+ML;342.0;S007.56.00.000;E112.43.00.000;
+OC;350.0;S006.58.55.600;E110.22.35.200;
+OF;270.0;S007.47.03.540;E110.26.02.830;
+OU;390.0;S003.26.10.500;E114.45.13.400;
+PI;265.0;S007.10.30.800;E110.45.50.800;
+PN;238.0;S002.42.22.400;E111.40.02.300;
+//SN;347.0;S003.17.07.400;E116.09.33.000;
+SO;255.0;S007.30.43.690;E110.44.47.610;
+SP;305.0;S002.30.12.500;E112.58.38.900;
+WK;201.0;S009.24.49.100;E119.14.57.600;
+
+
+
+
+[FIXES]
+F;GEN\W.fix
+
+[VFRFIX]
+
+[LOW AIRWAY]
+F;GEN\W.lairway
+
+[HIGH AIRWAY]
+F;GEN\W.hairway
+
+[GEO]
+F;GEN\W.geo
+F;Airports\wadd.geo
+F;Airports\wahq.geo
+F;Airports\warr.geo
+F;Airports\wara.geo
+F;Airports\wadl.geo
+F;Airports\watt.geo
+F;Airports\ware.geo
+F;Airports\wart.geo
+F;Airports\wagi.geo
+F;Airports\wari.geo
+F;Airports\ward.geo
+
+[ARTCC]
+F;GEN\W.artcc
+
+[ARTCC HIGH]
+F;Sectors\waaa.hartcc
+F;Sectors\warr.hartcc
+F;Sectors\wadd.hartcc
+F;Sectors\wagi.hartcc
+F;Sectors\watt.hartcc
+F;Sectors\waoo.hartcc
+F;Sectors\wahs.hartcc
+
+[ARTCC LOW]
+F;Sectors\waaa.lartcc
+F;Sectors\warr.lartcc
+F;Sectors\wadd.lartcc
+F;Sectors\watt.lartcc
+F;Sectors\wagi.lartcc
+F;Sectors\wahq.lartcc
+F;Sectors\wadl.lartcc
+F;Sectors\wady.lartcc
+
+[ATC]
+//ACC
+WAAF_W_CTR;128.300; //Ujung Control
+WAAF_BLI_CTR;120.700; //Ujung Control
+WAAF_PKN_CTR;134.100; //Ujung Control
+WAAF_MKS_CTR;133.800; //Ujung Control
+WAAF_SBY_CTR;123.900; //Ujung Control
+
+//WAHQ
+WAHQ_TWR;122.700;Marmo Tower
+
+//WARR
+//WARR_E_APP;122.850; //Surabaya Approach TMA EAST;
+//WARR_E_APP;124.000; //Surabaya Approach TMA EAST;
+//WARR_W_APP;125.100; //Surabaya Approach TMA WEST;
+//WARR_W_APP;123.550; //Surabaya Approach TMA WEST;
+WARR_APP;124.000; //Surabaya Approach;
+//WARR_D_APP;123.200; //Surabaya Director;
+//WARR_D_APP;124.500; //Surabaya Director;
+WARR_TWR;118.300; //Juanda Tower;
+//WARR_TWR;118.100; //Juanda Tower;
+WARR_GND;118.900; //Juanda Ground;
+//WARR_GND;119.150; //Juanda Ground;
+WARR_DEL;121.650; //Juanda Delivery;
+
+//WARD
+WARD_TWR;118.050; //Dhoho Tower
+//WARI
+
+
+//WARA
+WARA_TWR;122.500; //Abdulrahman Tower
+
+//WART
+WART_TWR;118.650; //Trunojoyo Tower
+
+//WADD
+//WADD_E_APP;119.900; //Bali Radar (TMA East) 
+//WADD_W_APP;119.300; //Bali Radar (TMA West)
+WADD_APP;119.700;//Bali Radar (BALI CTR)
+WADD_TWR;118.100;//Ngurah Tower
+//WADD_TWR;118.500;//Ngurah Tower
+WADD_GND;118.800;//Ngurah Ground
+WADD_DEL;121.850;//Ngurah Del
+
+//WADL
+WADL_APP;118.55;//Lombok Approach
+WADL_APP:118.95;//Lombok Approach
+WADL_TWR;118.55;//Lombok Tower
+WADL_TWR:118.95;//Lombok Tower
+
+//WAAA
+WAAA_APP;127.500; //Ujung Pandang Approach (TMA)
+WAAA_APP;120.600; //Makassar Director (CTR)
+WAAA_APP;119.400; //Makassar Director (CTR)
+
+WAAA_TWR;118.100; //Hasanuddin Tower 
+WAAA_TWR;118.600; //Hasanuddin Tower
+WAAA_GND;121.600; //Hasanuddin Ground
+
+//WATT
+WATT_APP;125.250; //Kupang Approach
+WATT_TWR;118.300; //El Tari Tower
+
+WAAF_YS_OBS;199.999; OBS
+WAAF-CH;199.999; Staff Only
+
+[FILLCOLOR]
+//F;Others\ctr.fcl
+//F;Others\WAAF_W.plf
+//F;Others\wadd_twr.tfl
+
+
+[CPDLCNAMES]
+F;Others\group.cpdlc
+
+[CPDLC]
+F;Others\message.cpdlc
